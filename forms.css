@@ -1,0 +1,13 @@
+input{
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    border: solid black 1px;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+fieldset{
+    width: 500px;
+}
